@@ -1,0 +1,30 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "off",
+    "editor.renderWhitespace": "all",
+    "editor.scrollBeyondLastLine": false,
+    "editor.tabSize": 4,
+    "html.format.indentHandlebars": true,
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss",
+            "less"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    },
+    "extensions.autoUpdate": true
+}

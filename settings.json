@@ -4,6 +4,7 @@
     "editor.renderWhitespace": "all",
     "editor.scrollBeyondLastLine": false,
     "editor.tabSize": 4,
+    "editor.wrappingColumn": 0,
     "html.format.indentHandlebars": true,
     "beautify.language": {
         "js": {

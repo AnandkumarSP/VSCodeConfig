@@ -4,7 +4,16 @@
     "editor.renderWhitespace": "all",
     "editor.scrollBeyondLastLine": false,
     "editor.tabSize": 4,
-    "editor.wrappingColumn": 0,
+    "editor.wrappingColumn": 300,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/.tmp": true,
+        "**/deploy": true,
+        "**/node_modules": true
+    },
     "html.format.indentHandlebars": true,
     "beautify.language": {
         "js": {

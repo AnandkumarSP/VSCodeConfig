@@ -3,10 +3,12 @@
 	// for the documentation about the extensions.json format
 	"recommendations": [
 		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"msjsdiag.debugger-for-chrome",
 		"HookyQR.beautify",
 		"dbaeumer.vscode-eslint",
 		"spywhere.guides",
 		"abusaidm.html-snippets",
+		"donjayamanne.python",
 		"minhthai.vscode-todo-parser",
 		"fantasytyx.tortoise-svn"
 	]

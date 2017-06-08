@@ -4,7 +4,7 @@
     "editor.renderWhitespace": "all",
     "editor.scrollBeyondLastLine": false,
     "editor.tabSize": 4,
-    "editor.wrappingColumn": 300,
+    "editor.wordWrap": "on",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,

@@ -36,5 +36,6 @@
             "html"
         ]
     },
-    "extensions.autoUpdate": true
+    "extensions.autoUpdate": true,
+    "window.title": "${activeEditorMedium}${separator}${rootName}"
 }

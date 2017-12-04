@@ -15,28 +15,28 @@
     	}
     */
     "Console Log": {
-        "prefix": "cl",
+        "prefix": "log",
         "body": [
             "console.log($1);"
         ],
         "description": "Console log"
     },
     "Console Warn": {
-        "prefix": "cw",
+        "prefix": "warn",
         "body": [
             "console.warn($1);"
         ],
         "description": "Console warning"
     },
     "Console Error": {
-        "prefix": "ce",
+        "prefix": "error",
         "body": [
             "console.error($1);"
         ],
         "description": "Console error"
     },
     "Console Info": {
-        "prefix": "ci",
+        "prefix": "info",
         "body": [
             "console.info($1);"
         ],

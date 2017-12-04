@@ -1,18 +1,18 @@
 {
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "files.autoSave": "off",
     "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
     "editor.scrollBeyondLastLine": false,
-    "editor.tabSize": 4,
-    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "off",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
         "**/.tmp": true,
-        "**/deploy": true,
-        "**/node_modules": true
+        "**/deploy": true
     },
     "html.format.indentHandlebars": true,
     "beautify.language": {
@@ -36,5 +36,8 @@
             "html"
         ]
     },
-    "extensions.autoUpdate": true
+    "extensions.autoUpdate": true,
+    "window.title": "${activeEditorMedium}${separator}${rootName}",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true
 }

@@ -11,6 +11,8 @@
 		"donjayamanne.python",
 		"donjayamanne.githistory",
 		"minhthai.vscode-todo-parser",
-		"fantasytyx.tortoise-svn"
+		"fantasytyx.tortoise-svn",
+		"eg2.tslint",
+		"editorconfig.editorconfig",
 	]
 }

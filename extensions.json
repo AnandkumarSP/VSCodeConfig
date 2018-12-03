@@ -12,6 +12,7 @@
 		"donjayamanne.githistory",
 		"minhthai.vscode-todo-parser",
 		"fantasytyx.tortoise-svn",
+		"eamodio.gitlens",
 		"eg2.tslint",
 		"editorconfig.editorconfig",
 	]
